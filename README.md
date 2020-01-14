@@ -1,1 +1,1 @@
-# express-cats
+# npm-cats
